@@ -1,0 +1,58 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+},
+{
+  "modid": "recipemod",
+  "name": "Basic Recipe Mod",
+  "description": "CoderDojo Swords mod to demonstrate basic recipes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AndreyZ"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+},
+{
+  "modid": "dungeonmod",
+  "name": "Dungeon Mod",
+  "description": "CoderDojo Swords mod to demonstrate changes to dungeon spawners.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AndreyZ"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+},
+{
+  "modid": "itemsmod",
+  "name": "Basic Item Mod",
+  "description": "CoderDojo Swords mod to demonstrate new item creation.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AndreyZ"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
